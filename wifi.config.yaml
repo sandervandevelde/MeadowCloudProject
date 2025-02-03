@@ -6,7 +6,7 @@
 Credentials:
 
     # WiFi SSID
-    Ssid: gspot
+    Ssid: ssid
 
     # WiFi Password
-    Password: sinterklaas
+    Password: pwd
